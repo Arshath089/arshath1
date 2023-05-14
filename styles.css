@@ -1,7 +1,22 @@
 a:link,a:visited{
-    color:blue;
+    color:rgba(242, 12, 158, 0.997);
     text-decoration: none;
 }
 a:hover{
     color:red;
+}
+h1,h3{
+    color: #66BFBF;
+}
+body{
+    background-color: #ECFFFB;
+}
+hr{
+    background-color: #ECFFFB;
+    border-style: dotted none none none;
+    border-width: 5px;
+    border-color: gray;
+    background-image: url("https://web.archive.org/web/20181117005644im_/http://seanhalpin.io/assets/img/ui/line-bg@2x.png");
+    height: 0px;
+    width: 5%;
 }
